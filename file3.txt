@@ -1,2 +1,6 @@
 Un tercer archivo
-con muy poquitos cambios
+con muy poquitos cambios.
+
+Línea para el commit 1.
+
+Línea para el commit 2.
