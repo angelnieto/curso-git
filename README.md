@@ -8,5 +8,5 @@ Readme.md file to test merge
 - Another line added from ricardo branch
     - Otra línea a la derecha
     - Una más
-    * Y otra rama más
+    
     
